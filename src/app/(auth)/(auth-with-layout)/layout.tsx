@@ -11,7 +11,7 @@ export default function ProductLayout({
   return (
     <>
         {children}
-        <p>Nested Layout</p>
+        <p>Route Group Layout</p>
         </>
   )
 }
